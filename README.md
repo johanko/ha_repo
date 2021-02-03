@@ -28,5 +28,9 @@
     - Netatmo
       - Smart Home Weather Station
       - 2 Indoor modules (Master Bedroom and Kids room)
+      - 1 Outdoor weather module
     - Tibber Pulse
-    
+    - Mill
+      - 1 Wifisocket Stue
+      - 1 SG1200WIFI
+      - 1 AV600WIFI
