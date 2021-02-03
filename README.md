@@ -1,5 +1,5 @@
 # Home Assistant - Config and setup
-
+![home render](https://github.com/johanko/ha_repo/blob/main/trunk/showroom_750.png)
 ## Hardware
 - MU's
   - Raspberry PI
